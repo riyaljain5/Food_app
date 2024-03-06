@@ -1,0 +1,61 @@
+{  "salads": [
+    {
+        "id": 0,
+        "name": "Caesar",
+        "description": "",
+        "ingredients": [
+            "chicken breast",
+            "bacon",
+            "parmesan",
+            "cherry tomatoes",
+            "croutons",
+            "lettuce",
+            "beetroot",
+            "sauce of your choice"
+        ],
+        "spicy": false,
+        "vegetarian": false,
+        "price": 20,
+        "image": "https://i.imgur.com/QWXH2NC.png"
+    },
+    {
+        "id": 1,
+        "name": "Greek",
+        "description": "",
+        "ingredients": [
+            "feta cheese",
+            "green olives",
+            "cherry tomatoes",
+            "cucumbers",
+            "red onion",
+            "red pepper",
+            "oregano",
+            "lettuce",
+            "beetroot",
+            "sauce of your choice"
+        ],
+        "spicy": false,
+        "vegetarian": true,
+        "price": 20,
+        "image": "https://i.imgur.com/qChqf83.png"
+    },
+    {
+        "id": 2,
+        "name": "Tuna",
+        "description": "",
+        "ingredients": [
+            "tuna",
+            "green olives",
+            "corn",
+            "red pepper",
+            "red onion",
+            "lettuce",
+            "beetroot",
+            "sauce of your choice"
+        ],
+        "spicy": false,
+        "vegetarian": false,
+        "price": 20,
+        "image": "https://i.imgur.com/Ph0IjrX.png"
+    }
+]}

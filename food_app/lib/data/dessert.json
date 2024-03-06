@@ -1,0 +1,42 @@
+{"dessert": [
+    {
+        "id": 0,
+        "name": "Brownie",
+        "description": "A delicious cake with chocolate and hazelnuts",
+        "ingredients": [],
+        "spicy": false,
+        "vegetarian": false,
+        "price": 15,
+        "image": "https://i.imgur.com/7WbfaDN.png"
+    },
+    {
+        "id": 1,
+        "name": "Chocolate Tortilla",
+        "description": "Tortilla filled with chocolate cream",
+        "ingredients": [],
+        "spicy": false,
+        "vegetarian": false,
+        "price": 12,
+        "image": "https://i.imgur.com/Mgsc3IZ.png"
+    },
+    {
+        "id": 2,
+        "name": "Apple Pie",
+        "description": "Hot pie with apple and cinnamon",
+        "ingredients": [],
+        "spicy": false,
+        "vegetarian": true,
+        "price": 15,
+        "image": "https://i.imgur.com/OWIVhWX.png"
+    },
+    {
+        "id": 3,
+        "name": "Cheesecake",
+        "description": "Cheesecake with berries topping",
+        "ingredients": [],
+        "spicy": false,
+        "vegetarian": false,
+        "price": 15,
+        "image": "https://i.imgur.com/AsldA7x.png"
+    }
+]}

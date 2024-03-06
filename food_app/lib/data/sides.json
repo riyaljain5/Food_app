@@ -1,0 +1,32 @@
+{"sides": [
+    {
+        "id": 0,
+        "name": "Wedges",
+        "description": "Baked potatoes, slightly spicy",
+        "ingredients": [],
+        "spicy": false,
+        "vegetarian": true,
+        "price": 6,
+        "image": "https://i.imgur.com/sxP6sJt.png"
+    },
+    {
+        "id": 1,
+        "name": "Onion rings",
+        "description": "Fried onion rings",
+        "ingredients": [],
+        "spicy": false,
+        "vegetarian": true,
+        "price": 6,
+        "image": "https://i.imgur.com/i3Jintb.png"
+    },
+    {
+        "id": 2,
+        "name": "Coleslaw",
+        "description": "Cabbage salad, carrots and dressing",
+        "ingredients": [],
+        "spicy": false,
+        "vegetarian": false,
+        "price": 10,
+        "image": "https://i.imgur.com/HNX30U9.png"
+    }
+]}
